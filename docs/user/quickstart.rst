@@ -555,4 +555,5 @@ All exceptions that Requests explicitly raises inherit from
 
 -----------------------
 
-Ready for more? Check out the :ref:`advanced`. section.
+
+Ready for more? Check out the :ref:`quickstart` section.
